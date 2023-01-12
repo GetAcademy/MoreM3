@@ -29,7 +29,8 @@ using M2Igjen;
 //Console.WriteLine(s2);
 
 
-Something.Do();
+ReferenceTroubleDemo.Run();
+//Something.Do();
 
 
 //string Double(string s1)
