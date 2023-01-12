@@ -1,0 +1,15 @@
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\bin\Debug\net6.0\M2Igjen.exe
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\bin\Debug\net6.0\M2Igjen.deps.json
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\bin\Debug\net6.0\M2Igjen.runtimeconfig.json
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\bin\Debug\net6.0\M2Igjen.dll
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\bin\Debug\net6.0\M2Igjen.pdb
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\obj\Debug\net6.0\M2Igjen.csproj.AssemblyReference.cache
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\obj\Debug\net6.0\M2Igjen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\obj\Debug\net6.0\M2Igjen.AssemblyInfoInputs.cache
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\obj\Debug\net6.0\M2Igjen.AssemblyInfo.cs
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\obj\Debug\net6.0\M2Igjen.csproj.CoreCompileInputs.cache
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\obj\Debug\net6.0\M2Igjen.dll
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\obj\Debug\net6.0\refint\M2Igjen.dll
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\obj\Debug\net6.0\M2Igjen.pdb
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\obj\Debug\net6.0\M2Igjen.genruntimeconfig.cache
+C:\Users\Terje\source\repos\M2Igjen\M2Igjen\obj\Debug\net6.0\ref\M2Igjen.dll
