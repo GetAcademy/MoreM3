@@ -1,8 +1,5 @@
 ﻿/*
 
-Pause til 13:12
-
-
  Torsdag:  
  - inputparametre
  - les inn og print ut
@@ -19,10 +16,26 @@ Pause til 13:12
 
 using M2Igjen;
 
-string Double(string s1)
-{
-    return s1 + s1;
-}
+//byte b = 56;
+//short s = -345;
+//ushort u = 45;
+//int i = 5;
+//uint u2 = 3;
+//long l = 2323;
+//ulong r = 5453;
+
+//short s = -1;
+//ushort s2 = (ushort)s;
+//Console.WriteLine(s2);
+
+
+Something.Do();
+
+
+//string Double(string s1)
+//{
+//    return s1 + s1;
+//}
 
 //MyConsole.WriteBox("Terje", 2);
 //MyConsole.WriteBox(Math.PI);
